@@ -1,0 +1,2 @@
+Selected_Superior_Method,Data_Access_Date,Latest_Available_Observation,Forecast_Target_Period,Forecasted_Value,Bias,MAD,MSE,MAPE,RSFE,Tracking_Signal
+Naive Forecasting,2026-05-31,2026-Q2,2026-Q3,9.338132,-0.3656015901639344,3.2885985737704924,25.139090895466726,20.348717401362517,-22.301696999999997,-6.781520000001194

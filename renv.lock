@@ -1,0 +1,11 @@
+{
+  "R": {"Version": "4.6.0"},
+  "Packages": {
+    "dplyr": {"Package": "dplyr"},
+    "forecast": {"Package": "forecast"},
+    "ggplot2": {"Package": "ggplot2"},
+    "lubridate": {"Package": "lubridate"},
+    "rmarkdown": {"Package": "rmarkdown"},
+    "tuikr": {"Package": "tuikr", "Source": "GitHub", "RemoteUsername": "emraher", "RemoteRepo": "tuik"}
+  }
+}
