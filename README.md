@@ -1,10 +1,10 @@
-# TÜİK Forecasting Project
+# TUIK Forecasting Project
 
 ## 1. Project Overview
 
-This project forecasts **insufficient demand (%)** as a factor limiting activities in the Turkish services sector using a quarterly TÜİK time series.
+This project forecasts **insufficient demand (%)** as a factor limiting activities in the Turkish services sector using a quarterly TUIK time series.
 
-## 2. Data Source and TÜİK Connection
+## 2. Data Source and TUIK Connection
 
 - Student name: Ömer Faruk ASLANER
 - Student number: 138722028
@@ -20,7 +20,7 @@ This project forecasts **insufficient demand (%)** as a factor limiting activiti
 - Date of data access: 2026-05-31
 - R package used for TÜİK metadata access: `tuikr`
 
-Important note: During project preparation, `tuikr::statistical_data()` returned HTTP 401 for the selected SDMX dataflow. The project therefore documents the official TÜİK metadata through `tuikr::statistical_tables("9")` and keeps the published official series in `R/data_import.R` for executable rendering.
+Important note: During project preparation, `tuikr::statistical_data()` returned HTTP 401 for the selected SDMX dataflow. The project therefore documents the official TUIK metadata through `tuikr::statistical_tables("9")` and keeps the published official series in `R/data_import.R` for executable rendering.
 
 ## 3. Research Objective
 
