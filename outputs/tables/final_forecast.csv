@@ -1,0 +1,2 @@
+Selected_Superior_Method,Data_Access_Date,Latest_Available_Observation,Forecast_Target_Period,Forecasted_Value,Bias,MAD,MSE,MAPE,RSFE,Tracking_Signal
+Multiplicative Decomposition,2026-06-03,2026-Q2,2026-Q3,7.983575986546433,0.0012335786896601848,1.9495508108587687,8.667256828408423,11.022710390501198,0.07154756400029072,0.03669951231934002
