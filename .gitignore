@@ -1,0 +1,35 @@
+# R project files
+.Rhistory
+.RData
+.Ruserdata
+
+# RStudio files
+.Rproj.user/
+
+# renv cache
+renv/library/
+renv/staging/
+
+# Temporary files
+*.tmp
+*.temp
+
+# System files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Logs
+*.log
+
+# Quarto / cache
+_cache/
+_files/
+
+# Ignore local downloaded files
+*.xls
+*.xlsx
+*.csv~
+
+# Ignore temporary output
+~$*
